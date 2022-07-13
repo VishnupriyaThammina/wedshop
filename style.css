@@ -40,7 +40,7 @@ header {
 
 
 .works{
-  background-image: url(bin/w5.webp);
+  background-image: url(w5.webp);
   background-size: cover;
   max-width: 100%;
   min-height: 65vh;
